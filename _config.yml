@@ -1,3 +1,8 @@
-name: Your New Jekyll Site
+name: Unprinter
 markdown: redcarpet
 pygments: true
+lsi: true
+baseurl: /unprinter
+
+relative_permalinks: true
+permalink: date
