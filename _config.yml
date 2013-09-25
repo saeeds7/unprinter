@@ -4,5 +4,3 @@ pygments: true
 lsi: true
 baseurl: /unprinter
 
-relative_permalinks: true
-permalink: date
